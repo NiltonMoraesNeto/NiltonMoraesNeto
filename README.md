@@ -1,6 +1,6 @@
 ### Olá 👋
 - 💬  Sou Dev Front End (React)
-- ⚡ Tenho experiência com TypeScript, HookForms, Styled-Components, Shadcn e TailwindCSS
+- ⚡ Tenho experiência com React, TypeScript, HookForms, Styled-Components, Shadcn/ui e TailwindCSS
 
 <div align="center">
   <br>
