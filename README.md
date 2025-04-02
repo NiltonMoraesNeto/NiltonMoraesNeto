@@ -1,6 +1,8 @@
 ### Olá 👋
 - 💬  Sou Dev Front End (React)
 - ⚡ Tenho experiência com ReactJS | React Native - RN | Typescript | Javascript | TailwindCSS | Vite | Shadcn/ui
+- 📲 Curitiba/PR | (41) 98882-5493 | nilton.nmn@gmail.com
+- 🔗 Linkedin: https://www.linkedin.com/in/niltonmn/
 
 <div align="center">
   <br>
